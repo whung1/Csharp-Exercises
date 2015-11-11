@@ -1,0 +1,6 @@
+d:\wilson\documents\visual studio 2013\Projects\DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe.config
+d:\wilson\documents\visual studio 2013\Projects\DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe
+d:\wilson\documents\visual studio 2013\Projects\DateTimeManipulation\DateTimeManipulation\bin\Debug\DateTimeManipulation.pdb
+d:\wilson\documents\visual studio 2013\Projects\DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.csprojResolveAssemblyReference.cache
+d:\wilson\documents\visual studio 2013\Projects\DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.exe
+d:\wilson\documents\visual studio 2013\Projects\DateTimeManipulation\DateTimeManipulation\obj\Debug\DateTimeManipulation.pdb

@@ -1,0 +1,6 @@
+d:\wilson\documents\visual studio 2013\Projects\ReadFileWhile\ReadFileWhile\bin\Release\ReadFileWhile.exe.config
+d:\wilson\documents\visual studio 2013\Projects\ReadFileWhile\ReadFileWhile\bin\Release\Values.txt
+d:\wilson\documents\visual studio 2013\Projects\ReadFileWhile\ReadFileWhile\bin\Release\ReadFileWhile.exe
+d:\wilson\documents\visual studio 2013\Projects\ReadFileWhile\ReadFileWhile\bin\Release\ReadFileWhile.pdb
+d:\wilson\documents\visual studio 2013\Projects\ReadFileWhile\ReadFileWhile\obj\Release\ReadFileWhile.exe
+d:\wilson\documents\visual studio 2013\Projects\ReadFileWhile\ReadFileWhile\obj\Release\ReadFileWhile.pdb

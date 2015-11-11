@@ -1,0 +1,6 @@
+d:\wilson\documents\visual studio 2013\Projects\ClassesExample\ClassesExample\bin\Debug\ClassesExample.exe.config
+d:\wilson\documents\visual studio 2013\Projects\ClassesExample\ClassesExample\bin\Debug\ClassesExample.exe
+d:\wilson\documents\visual studio 2013\Projects\ClassesExample\ClassesExample\bin\Debug\ClassesExample.pdb
+d:\wilson\documents\visual studio 2013\Projects\ClassesExample\ClassesExample\obj\Debug\ClassesExample.csprojResolveAssemblyReference.cache
+d:\wilson\documents\visual studio 2013\Projects\ClassesExample\ClassesExample\obj\Debug\ClassesExample.exe
+d:\wilson\documents\visual studio 2013\Projects\ClassesExample\ClassesExample\obj\Debug\ClassesExample.pdb

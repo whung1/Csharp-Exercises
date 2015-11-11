@@ -1,0 +1,5 @@
+d:\wilson\documents\visual studio 2013\Projects\UsingSwitchCase\UsingSwitchCase\bin\Debug\UsingSwitchCase.exe.config
+d:\wilson\documents\visual studio 2013\Projects\UsingSwitchCase\UsingSwitchCase\bin\Debug\UsingSwitchCase.exe
+d:\wilson\documents\visual studio 2013\Projects\UsingSwitchCase\UsingSwitchCase\bin\Debug\UsingSwitchCase.pdb
+d:\wilson\documents\visual studio 2013\Projects\UsingSwitchCase\UsingSwitchCase\obj\Debug\UsingSwitchCase.exe
+d:\wilson\documents\visual studio 2013\Projects\UsingSwitchCase\UsingSwitchCase\obj\Debug\UsingSwitchCase.pdb

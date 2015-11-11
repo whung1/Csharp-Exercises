@@ -1,0 +1,5 @@
+d:\wilson\documents\visual studio 2013\Projects\Decisions\Decisions\bin\Release\Decisions.exe.config
+d:\wilson\documents\visual studio 2013\Projects\Decisions\Decisions\bin\Release\Decisions.exe
+d:\wilson\documents\visual studio 2013\Projects\Decisions\Decisions\bin\Release\Decisions.pdb
+d:\wilson\documents\visual studio 2013\Projects\Decisions\Decisions\obj\Release\Decisions.exe
+d:\wilson\documents\visual studio 2013\Projects\Decisions\Decisions\obj\Release\Decisions.pdb

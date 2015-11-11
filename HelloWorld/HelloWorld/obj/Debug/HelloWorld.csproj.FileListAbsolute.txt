@@ -1,0 +1,6 @@
+d:\wilson\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+d:\wilson\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+d:\wilson\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+d:\wilson\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+d:\wilson\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+d:\wilson\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

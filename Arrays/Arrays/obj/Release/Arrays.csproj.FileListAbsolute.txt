@@ -1,0 +1,6 @@
+d:\wilson\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Release\Arrays.exe.config
+d:\wilson\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Release\Arrays.exe
+d:\wilson\documents\visual studio 2013\Projects\Arrays\Arrays\bin\Release\Arrays.pdb
+d:\wilson\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Release\Arrays.csprojResolveAssemblyReference.cache
+d:\wilson\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Release\Arrays.exe
+d:\wilson\documents\visual studio 2013\Projects\Arrays\Arrays\obj\Release\Arrays.pdb

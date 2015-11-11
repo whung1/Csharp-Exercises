@@ -1,0 +1,5 @@
+d:\wilson\documents\visual studio 2013\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+d:\wilson\documents\visual studio 2013\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+d:\wilson\documents\visual studio 2013\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+d:\wilson\documents\visual studio 2013\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+d:\wilson\documents\visual studio 2013\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

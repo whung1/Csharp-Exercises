@@ -1,0 +1,5 @@
+d:\wilson\documents\visual studio 2013\Projects\Variables\Variables\bin\Release\Variables.exe.config
+d:\wilson\documents\visual studio 2013\Projects\Variables\Variables\bin\Release\Variables.exe
+d:\wilson\documents\visual studio 2013\Projects\Variables\Variables\bin\Release\Variables.pdb
+d:\wilson\documents\visual studio 2013\Projects\Variables\Variables\obj\Release\Variables.exe
+d:\wilson\documents\visual studio 2013\Projects\Variables\Variables\obj\Release\Variables.pdb
